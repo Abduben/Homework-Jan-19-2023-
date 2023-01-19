@@ -1,0 +1,77 @@
+
+****************************************Create Account*************************************
+1. //input[@name = 'name1f49a005']
+2. //input[@name = 'btnchkavail1f49a005' and @class = 'btn_checkavail']
+3. //input[contains(@name, 'login1f49a005')]
+4. //select[@id = 'country']
+5. //select[@id = 'country']/ancestor::tr/following-sibling::tr[4]/descendant::img
+6. //input[contains(@id, 'Register')]
+7. //input[contains(@id, 'Register')]/ancestor::tr/following-sibling::tr[2]/descendant::a
+8. //a[text() = 'terms and conditions']
+9. //a[contains(text(), 'privacy policy')]
+10. //a[@class = 'f12']/following-sibling::img
+11. //select[@name = 'DOB_Month1f49a005']/child::option[1]
+12. //input[contains(@name, 'altemail1f49a005')]
+13. //a[text() = 'Home']
+14. //a[contains(text(), 'Home')]
+15. //input[@id = 'mobno']
+16. //input[contains(@name, 'gender1f49a005')]
+17. //input[@name= 'gender1f49a005' and @value= 'f']
+18. //em[@id= 'eyeiconRe' and @class = 'eye-icon']/preceding-sibling::input
+19. //em[@id= 'eyeiconRe' and @class = 'eye-icon']/preceding-sibling::input[contains(@name, 'confirm_passwd1f49a005')]
+20. //select[@name = 'city1f49a005']/child::option[1]
+
+**********************************Videos***************************************************************
+1. //input[contains(@id, 'srchword')]
+2. //div[@class= 'rtbox']/child::div/descendant::img
+3. //div[@class= 'share-wrapper floatR']/descendant::img
+4. //div[@class= 'myVideos' and @title = 'Upload Videos']/child::a/child::img
+5. //a[contains(text(), 'Create a Rediffmail account')]
+6. //a[(text()= 'rediff.com')]
+7. //div[@id ='show-more-popular']/child::a[contains(text(), 'See all')]
+8. //a[text() = 'What AbRam calls father Shahrukh Khan']/parent::div
+9. //a[contains(text(), 'Tapsee Pannu Visit the Rediff office')]/parent::div/preceding-sibling::div
+10. //div[contains(@id, 'rightcontainer')]/descendant::h3/a
+11. //div[@id= 'rightcontainer']/descendant::h3/child::a
+12. //input[@class = 'newsrchbtn']
+13. //input[contains(@class , 'newsrchbtn')]/ancestor::div[@class= 'search-box-outer']
+14. //input[contains(@class , 'newsrchbtn')]/following-sibling::input
+15. //a[contains(@id, 'embed-link')]
+16. //div[contains(@id, 'thumbs_up')]/ancestor::div[@class = 'floatR']/descendant::img
+17. //div[contains(@class, 'share-wrapper floatR')]/descendant::div[4]/child::a
+18. //video[@id = 'content_video_html5_api']/following-sibling::div[4]/descendant::span
+19. //div[contains(@class, 'vjs-control-bar')]/child::button[4]/child::span
+20. //a[text() = 'Sign In']
+
+***********************************************Business email****************************************
+1. //div[@class = 'search homecmp']/following-sibling::div/child::a
+2. //div[contains(@class, 'autocomplete')]/input
+3. //ul[@id = 'grid']/child::li[4]/descendant::img
+4. //b[@class = 'lni-calendar']/parent::span/following-sibling::a
+5. //a[contains(text(), 'Disclaimer')]
+6. //a[contains(text(), 'Contact Us')]/parent::li/preceding-sibling::li[1]/child::a
+7. //a[@class = 'logo']/child::img
+8. //div[contains(@class, 'footer-link')]/descendant::a
+9. //div[@class= 'footer-link']/child::ul/descendant::a[text() = 'Email for Startup']
+10. //div[@class= 'footer-link']/child::ul/descendant::a
+11. //div[@class= 'card_det']/child::p
+12. //div[contains(@class, 'footer-link')]/descendant::a[text()= 'Dmarc Analyzer']
+13. //div[@class = 'top_contactus']/following-sibling::a/descendant::h2
+14. //a[text() = 'Download mobile app']
+15. //ul[@id = 'grid']/child::li[10]/descendant::img
+16. //a[contains(text(), 'Terms & Conditions')]
+17. //a[contains(text(), 'Email for Startup')]/parent::li/following-sibling::li/child::a
+18. //a[text() = 'DKIM Analyzer']/parent::li/preceding-sibling::li[2]/child::a
+19. //a[text()= 'Renew your subscription']
+20. //a[text()= 'Renew your subscription']/parent::li/preceding-sibling::li/following-sibling::li/child::a
+
+
+
+
+
+
+
+
+
+
+
